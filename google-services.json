@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "842834546088",
+    "firebase_url": "https://stockprices2-be035.firebaseio.com",
+    "project_id": "stockprices2-be035",
+    "storage_bucket": "stockprices2-be035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842834546088:android:1219087df8f263da",
+        "android_client_info": {
+          "package_name": "com.example.harshit.stockprices2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842834546088-23onqlbhvt9tir496f08lrj6qecq2pa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harshit.stockprices2",
+            "certificate_hash": "b17708ebb928f7723e60d07bfa2d4a3c261fde33"
+          }
+        },
+        {
+          "client_id": "842834546088-k7rtvpj6hpnd2g9lg9fqr8uloqtalmkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeiR52-UsaivFJngizK42Thq25fjK9xEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842834546088-k7rtvpj6hpnd2g9lg9fqr8uloqtalmkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

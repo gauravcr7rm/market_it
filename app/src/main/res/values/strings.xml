@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stock Prices 2</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_stocks">No Stocks.</string>
+    <string name="welcome">Welcome</string>
+    <string name="balance">Balance</string>
+    <string name="net_worth">Net Worth</string>
+    <string name="fixed_deposit">Fixed Deposit</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="stock_available">Stocks Available</string>
+    <string name="stock_reqd">Stocks Required</string>
+    <string name="stock_sell">Sell Stocks</string>
+    <string name="stock_price">Stock Price</string>
+    <string name="purchase">Purchase</string>
+    <string name="sell">Sell</string>
+    <string name="no_of_stocks">No of Stocks</string>
+</resources>
